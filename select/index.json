@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "吹雪",
+  "base_artist": "西沢幸奏",
+  "createdAt": "2025-12-11T11:23:32.356091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "吹雪",
+      "artist": "SHIENA NISHIZAWA",
+      "has_synced": true,
+      "path": "select/01_吹雪_SHIENA_NISHIZAWA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "吹雪",
+      "artist": "西沢幸奏",
+      "has_synced": true,
+      "path": "select/02_吹雪_西沢幸奏.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "吹雪",
+      "artist": "西沢 幸奏",
+      "has_synced": true,
+      "path": "select/03_吹雪_西沢_幸奏.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "吹雪 (艦隊これくしょん -艦これ-)",
+      "artist": "cao",
+      "has_synced": false,
+      "path": "select/04_吹雪_(艦隊これくしょん_-艦これ-)_cao.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "吹雪",
+      "artist": "Shiena Nishizawa",
+      "has_synced": true,
+      "path": "select/05_吹雪_Shiena_Nishizawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "吹雪",
+      "artist": "西沢 幸奏",
+      "has_synced": true,
+      "path": "select/06_吹雪_西沢_幸奏.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "吹雪",
+      "artist": "西沢幸奏",
+      "has_synced": false,
+      "path": "select/pl_01_吹雪_西沢幸奏.txt"
+    }
+  ]
+}
